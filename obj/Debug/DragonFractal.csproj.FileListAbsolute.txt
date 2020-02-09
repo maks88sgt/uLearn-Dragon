@@ -1,0 +1,6 @@
+D:\uLearn\Dragon\bin\Debug\DragonFractal.exe.config
+D:\uLearn\Dragon\bin\Debug\DragonFractal.exe
+D:\uLearn\Dragon\bin\Debug\DragonFractal.pdb
+D:\uLearn\Dragon\obj\Debug\DragonFractal.csprojAssemblyReference.cache
+D:\uLearn\Dragon\obj\Debug\DragonFractal.exe
+D:\uLearn\Dragon\obj\Debug\DragonFractal.pdb
